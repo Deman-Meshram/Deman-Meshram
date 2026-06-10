@@ -37,12 +37,13 @@ Most automators don't understand biology. Most biotech professionals don't build
 
 | Project | Description |
 |---|---|
-| LabWise AI | Lab report analyzer — PDF upload, AI summary, Gmail delivery |
-| BioSearch AI | Research paper search with AI-generated insights |
-| Patent & Competitor Tracker | Automated patent monitoring with Airtable + email alerts |
-| FDA Drug Enforcement Alert | Real-time FDA recall alerts with AI summaries |
-| Lab Inventory Alert System | Smart inventory monitoring with auto status detection |
-| Weekly Lab Summary | Automated weekly inventory reports via Gmail |
+| [LabWise AI](https://github.com/Deman-Meshram/LabWise-AI) | Lab report analyzer — PDF upload, AI summary, Gmail delivery |
+| [BioSearch AI](https://github.com/Deman-Meshram/BioSearch-AI) | Research paper search with AI-generated insights |
+| [Patent & Competitor Tracker](https://github.com/Deman-Meshram/patent-competitor-tracker) | Automated patent monitoring with Airtable + email alerts |
+| [FDA Drug Enforcement Alert](https://github.com/Deman-Meshram/fda-drug-enforcement-alert) | Real-time FDA recall alerts with AI summaries |
+| [Lab Inventory & Refill Alert](https://github.com/Deman-Meshram/lab-inventory-refill-alert) | Smart inventory monitoring with auto status detection |
+| [Weekly Lab Summary](https://github.com/Deman-Meshram/weekly-lab-summary) | Automated weekly inventory reports via Gmail |
+
 
 ---
 
